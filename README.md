@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamzat Rukayat 
+# 👋 Hi, I'm [Your Name]  
 **Frontend Developer | Open Source Enthusiast**  
 
 🚀 **About Me**  
@@ -7,13 +7,13 @@
 - 🧑‍🏫 Mentored students in frontend development during my internship at **BuggyBillions**.  
 
 📂 **Featured Projects**  
-- [**https:hr-shelfy.web.app**](#) - A clean and responsive book cataloging platform.  
-- [**hrshoewebsite.vercel.app**](#) - An e-commerce site with dynamic product displays.  
-- [**hr-flickfetch.web.app**](#) - A movie discovery platform with a responsive interface.  
+- [**Book Site**](https:hr-shelfy.web.app) - A clean and responsive book cataloging platform.  
+- [**Shoe Site**](hrshoewebsite.vercel.app) - An e-commerce site with dynamic product displays.  
+- [**FlickFetch**](hr-flickfetch.web.app) - A movie discovery platform with a responsive interface.  
 - [**RecipeAI**](#) - An AI-powered recipe generator using React and OpenAI.  
-- [**hr-blog-red.vercel.app**](#) - A React-based blog platform with interactive post creation.  
+- [**Blog Site**](hr-blog-red.vercel.app) - A React-based blog platform with interactive post creation.  
 
 📫 **Let's Connect!**  
-
-- **LinkedIn:** www.linkedin.com/in/hamzat-rukayat-abiodun
-- **Email:** hamzatrukayat2822@gmail.com 
+- **Portfolio:** [Your Portfolio Link]  
+- **LinkedIn:** [Your LinkedIn Profile]  
+- **Email:** [Your Email Address]  
