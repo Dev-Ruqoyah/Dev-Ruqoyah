@@ -22,32 +22,32 @@ A dynamic academic dashboard that visualizes student records, profiles, and perf
 
 ---
 
-###  [RecipyAI](https://github.com/Dev-Ruqoyah/hr-talkify)
+###  [RecipyAI](https://hr-recipyai.web.app/)
 
 An AI-powered food recipe generator that generate meal ideas based on user ingredients.
 **Highlights**: Smart recipe suggestions, responsive design, and fluid user interactions powered by React and OpenAI integration.
 
 ---
 
-###  [Job Listing System](https://github.com/yourusername/hr-joblisting)
+###  [Job Listing System](https://hr-joblisting.web.app/)
 
 A job management tool for structured job postings and directing to the job portal.
 **Highlights:** Modular UI, clean data presentation, and intuitive navigation.
 
 ---
 
-### [Ritegudz Store](https://github.com/Dev-Ruqoyah/ritegudz-store)
+### [Ritegudz Store](https://ritegudz.store/)
 
 An elegant online store built with a focus on smooth shopping flow and responsive layouts.
 **Highlights:** Optimized performance, a converting and minimalist design.
 
 ---
 
-📈 **GitHub Insights**
+ **GitHub Insights**
 
 ![Rukayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Ruqoyah\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ruqoyah\&layout=compact\&theme=radical)
 
 ---
 
-*I’m constantly refining the intersection between design and logic, crafting interfaces that work beautifully and perform effortlessly.*
+*I don’t just write code - I build meaningful digital experiences.*
