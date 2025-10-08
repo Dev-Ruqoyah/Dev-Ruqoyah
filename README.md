@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Hamzat Rukayat 
+# Hi, I'm Hamzat Rukayat 
 
 **Frontend Developer | Turning Ideas into Intuitive, Impactful Web Experiences**
 
 ---
 
-🚀 **About Me**
+ **About Me**
 I build interactive, high-performing web applications that balance aesthetics, accessibility, and efficiency.
 Every project I work on is an opportunity to merge design thinking with code - creating digital experiences that feel simple, fast, and human.
 
@@ -13,7 +13,7 @@ I’m particularly drawn to projects that challenge me to think critically about
 
 ---
 
-📂 **Featured Projects**
+ **Featured Projects**
 
 ###  [Student Dashboard](https://github.com/Dev-Ruqoyah/student-dashboard)
 
@@ -22,21 +22,21 @@ A dynamic academic dashboard that visualizes student records, profiles, and perf
 
 ---
 
-### 💬 [HR Talkify](https://github.com/Dev-Ruqoyah/hr-talkify)
+###  [RecipyAI](https://github.com/Dev-Ruqoyah/hr-talkify)
 
 An AI-powered food recipe generator that generate meal ideas based on user ingredients.
 **Highlights**: Smart recipe suggestions, responsive design, and fluid user interactions powered by React and OpenAI integration.
 
 ---
 
-### 🧾 [HR Job Listing System](https://github.com/yourusername/hr-joblisting)
+###  [Job Listing System](https://github.com/yourusername/hr-joblisting)
 
 A job management tool for structured job postings and directing to the job portal.
 **Highlights:** Modular UI, clean data presentation, and intuitive navigation.
 
 ---
 
-### 🛍️ [Ritegudz Store](https://github.com/Dev-Ruqoyah/ritegudz-store)
+### [Ritegudz Store](https://github.com/Dev-Ruqoyah/ritegudz-store)
 
 An elegant online store built with a focus on smooth shopping flow and responsive layouts.
 **Highlights:** Optimized performance, a converting and minimalist design.
