@@ -5,6 +5,7 @@
 ---
 
  **About Me**
+ 
 I build interactive, high-performing web applications that balance aesthetics, accessibility, and efficiency.
 Every project I work on is an opportunity to merge design thinking with code - creating digital experiences that feel simple, fast, and human.
 
