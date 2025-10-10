@@ -44,11 +44,4 @@ An elegant online store built with a focus on smooth shopping flow and responsiv
 
 ---
 
- **GitHub Insights**
-
-![Rukayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Ruqoyah\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ruqoyah\&layout=compact\&theme=radical)
-
----
-
 *I don’t just write code - I build meaningful digital experiences.*
