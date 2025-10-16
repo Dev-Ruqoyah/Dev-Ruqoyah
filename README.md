@@ -6,11 +6,7 @@
 
  **About Me**
  
-I build interactive, high-performing web applications that balance aesthetics, accessibility, and efficiency.
-Every project I work on is an opportunity to merge design thinking with code - creating digital experiences that feel simple, fast, and human.
-
-My recent work spans **e-commerce platforms**, **real-time communication tools** and **student-dashboard**  - powered by technologies like React, Next.js, TypeScript, Tailwind, Firebase, and Supabase.
-I’m particularly drawn to projects that challenge me to think critically about performance, scalability, and user experience.
+I build interactive, high-performing web applications that blend design, accessibility, and efficiency. I love creating digital experiences that feel simple, fast, and human,powered by React, Next.js, TypeScript, Tailwind, Firebase, and Supabase.
 
 ---
 
