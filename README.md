@@ -84,7 +84,7 @@ A product-focused e-commerce website built to showcase and sell portable wireles
 
 📧 Email: hamzatrukayatabiodun02@gmail.com
 
-💼 LinkedIn: [https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/hamzat-rukayat/)
+💼 LinkedIn: [https://linkedin.com/in/hamzat-rukayat](https://www.linkedin.com/in/hamzat-rukayat/)
 
 ---
 
